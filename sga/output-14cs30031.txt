@@ -1,0 +1,32 @@
+Values of initial thetas are ...
+2 2 2 4
+Total Number of iterations: 968541
+values of thetas 1,2,3,4 are -28.1318 13.1322 20.4124 24.7495
+
+Values of initial thetas are ...
+10 7 2 6
+Total Number of iterations: 972104
+values of thetas 1,2,3,4 are -28.1319 13.1321 20.4124 24.7494
+
+Values of initial thetas are ...
+2 8 6 8
+Total Number of iterations: 949682
+values of thetas 1,2,3,4 are -28.1317 13.1321 20.4123 24.7493
+
+Values of initial thetas are ...
+1 4 10 7
+Total Number of iterations: 947197
+values of thetas 1,2,3,4 are -28.1318 13.1321 20.4124 24.7495
+
+Values of initial thetas are ...
+9 10 4 4
+Total Number of iterations: 969319
+values of thetas 1,2,3,4 are -28.1319 13.1321 20.4125 24.7495
+
+Values of initial thetas are ...
+9 5 5 9
+Total Number of iterations: 966302
+values of thetas 1,2,3,4 are -28.1317 13.132 20.4123 24.7494
+
+
+
